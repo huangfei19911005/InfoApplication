@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InfoApplication</string>
+    <string name="result">result</string>
+    <string name="access_type">accessType</string>
+    <string name="imei">imei</string>
+    <string name="mac">mac</string>
+    <string name="client_ip">client ip</string>
+    <string name="cdma">cdma</string>
+    <string name="imsi">imsi</string>
+    <string name="gps">gps</string>
+    <string name="network">network</string>
+    <string name="tel">tel</string>
+    <string name="bts">bts</string>
+    <string name="nearbts">nearbts</string>
+    <string name="mmac">mmac</string>
+    <string name="macs">macs</string>
+</resources>
