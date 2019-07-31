@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         AndPermission.with(this)
                 .runtime()
                 .permission(Permission.READ_PHONE_STATE, Permission.ACCESS_COARSE_LOCATION, Permission.ACCESS_FINE_LOCATION,
-                        Permission.READ_SMS, Permission.READ_PHONE_NUMBERS)
+                        Permission.READ_SMS)
                 .onDenied(new Action<List<String>>() {
                     @Override
                     public void onAction(List<String> data) {
